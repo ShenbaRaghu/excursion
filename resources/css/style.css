@@ -16,3 +16,15 @@ body {
     font-size: 16px;
 }
 
+.article--main{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+.para--line{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color:gray;
+}
