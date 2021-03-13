@@ -28,3 +28,17 @@ body {
     font-size: 21px;
     color:gray;
 }
+
+.content--main {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+.footer--last {
+    text-align: right;
+    color:gray;
+    font: size 21px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
